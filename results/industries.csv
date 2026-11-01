@@ -1,0 +1,22 @@
+sic2,industry,years,firms_per_year,competition,lerner_pct,median_lerner_pct,loss_share,gap,cw_patents_per_firm,patents_total,top_patentees
+35,Machinery and computers,10,160.5,1.022,-2.204,4.815,0.3053,0.3846,77.23,156450,"International Business Machines Corp (71,639); Apple Inc (21,223); Hp Inc (11,702)"
+37,Transportation equipment,10,85.5,0.9938,0.6151,5.493,0.1673,0.3526,46.73,58189,"Ford Motor Co (14,385); Boeing Co (10,505); General Motors Co (9,567)"
+36,Electronics and electrical,10,225.2,1.031,-3.056,2.437,0.3677,0.4362,44.72,135732,"Intel Corp (26,675); Qualcomm Inc/De (22,280); General Electric Co (14,408)"
+38,Instruments and medical devices,10,207.5,1.147,-14.73,2.562,0.427,0.4316,41.52,38734,"3M Co (4,685); Boston Scientific Corp (4,020); Raytheon Co/ (2,112)"
+21,Tobacco,10,7.1,1.071,-7.064,13.72,0.2676,0.2955,13.8,907,"Altria Group, Inc. (887); 22Nd Century Group, Inc. (20)"
+29,Petroleum refining,10,17.3,1.028,-2.836,1.818,0.2197,0.2211,13.01,3354,"Chevron Corp (1,730); Exxon Mobil Corp (1,055); Conocophillips (389)"
+33,Primary metals,10,38.8,1.005,-0.549,1.873,0.2423,0.1561,12.53,5131,"Corning Inc /Ny (4,316); Mueller Industries Inc (315); Howmet Aerospace Inc. (115)"
+25,Furniture,10,18.3,0.9785,2.153,4.464,0.1421,0.09027,11.42,854,Steelcase Inc (317); Johnson Controls Inc (205); Sleep Number Corp (99)
+39,Other manufacturing,10,25.3,0.9879,1.208,3.884,0.2767,0.207,9.238,1179,"Callaway Golf Co (518); Mattel Inc /De/ (273); Hasbro, Inc. (86)"
+28,Chemicals and drugs,10,304.8,1.671,-67.12,-1.662,0.4846,0.5024,8.225,30556,"Procter & Gamble Co (4,175); Merck & Co., Inc. (2,723); Monsanto Co /New/ (2,237)"
+30,Rubber and plastics,10,25.2,0.9994,0.06406,4.605,0.1905,0.1615,6.309,2060,"Nike, Inc. (758); Goodyear Tire & Rubber Co /Oh/ (547); Entegris Inc (362)"
+32,"Stone, clay and glass",10,14.1,1.129,-12.87,2.759,0.234,0.1483,5.565,135,"View, Inc. (79); Carbo Ceramics Inc (32); Apogee Enterprises, Inc. (9)"
+26,Paper,10,20.5,0.994,0.5997,3.041,0.1561,0.1385,3.68,1090,Kimberly Clark Corp (929); Meadwestvaco Corp (48); Bemis Co Inc (36)
+34,Fabricated metal products,10,51.5,0.9658,3.422,6.233,0.1456,0.2027,2.842,1938,"Parker-Hannifin Corp (472); Snap-On Inc (338); Stanley Black & Decker, Inc. (168)"
+20,Food,10,76.6,0.9681,3.191,5.783,0.201,0.3322,0.6325,1110,Coca Cola Co (280); Pepsico Inc (215); General Mills Inc (175)
+23,Apparel,10,20,0.9672,3.28,6.843,0.2,0.2286,0.4344,91,"Levi Strauss & Co (46); Under Armour, Inc. (21); Columbia Sportswear Co (15)"
+22,Textiles,10,10.1,0.9708,2.917,4.214,0.1782,0.1068,0.4272,15,Mohawk Industries Inc (13); Interface Inc (2)
+27,Printing and publishing,10,24.5,1.005,-0.5194,2.403,0.2857,0.1826,0.2399,165,"Acco Brands Corp (106); Quad/Graphics, Inc. (16); American Greetings Corp (13)"
+24,Lumber and wood,10,15.5,0.9559,4.408,4.585,0.1355,0.137,0.2339,57,"Louisiana-Pacific Corp (18); Jeld-Wen Holding, Inc. (17); Trex Co Inc (9)"
+31,Leather,10,10,0.9542,4.582,7.416,0.15,0.2315,0.1454,16,"Tumi Holdings, Inc. (9); Wolverine World Wide Inc /De/ (4); Rocky Brands, Inc. (3)"
+0,All manufacturing (firm-years),200,,1.182,-18.21,3.46,0.337,,28.52,437763,

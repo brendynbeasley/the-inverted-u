@@ -1,0 +1,9 @@
+step,kept,dropped
+"SEC firm-years with revenue, fiscal 2010-2024",74882,36054
+KPSS patents filed 2008-2022 (of all years),1482341,2349567
+KPSS patents filed 2008-2022 with a permco,1482341,0
+permco-CIK links by exact name (>= 3 patents or 10%),2717,69
+permco-CIK links by leading words (>= 10 patents and 25%),152,165
+patents in linked firm-years whose assignee name matched the filer,746215,113020
+KPSS patents filed 2008-2022 attributed to an SEC filer,746215,736126
+KPSS patents filed 2011-2020 attributed to an SEC filer,624478,437235

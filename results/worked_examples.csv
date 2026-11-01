@@ -1,0 +1,5 @@
+item,sic,revenue_bn,operating_income_bn,ppe_bn,capital_charge_bn,lerner,one_minus_lerner,patents,cw_patents,firms
+Apple Inc,3571,260.174,63.93,37.378,3.17713,0.233509,0.766491,2530,4539.8,
+Intel Corp,3674,71.965,22.035,55.386,4.70781,0.240772,0.759228,2417,1811.86,
+Boeing Co,3721,76.559,-1.975,12.502,1.06267,-0.0396775,1.03968,1320,581.288,
+"SIC 36 electronics, industry average",36,,,,,-0.0485264,1.04853,69.575,71.9187,200

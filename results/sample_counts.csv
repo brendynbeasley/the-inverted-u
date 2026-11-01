@@ -1,0 +1,12 @@
+step,kept,dropped
+fiscal years 2011-2020,51257,23625
+US business address,47666,3591
+manufacturing SIC 2000-3999,19080,28586
+revenue of at least $10 million,13859,5221
+operating profit available,13583,276
+operating profit from operating income,12780,0
+operating profit from pretax plus interest,501,0
+operating profit from revenue less costs,302,0
+net PP&E missing (capital charge set to zero),371,0
+two-digit industry-years with >= 5 firms,200,0
+three-digit industry-years with >= 5 firms,604,540

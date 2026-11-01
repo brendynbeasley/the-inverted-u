@@ -1,0 +1,19 @@
+spec,gap,n,coef_c,se_c,p,coef_c2,se_c2,coef_c_gap,se_c_gap,coef_c2_gap,se_c2_gap,wald,median_gap,industries,peak,peak_se,lm_t,lm_p,mean_cw,mean_firms
+"Gap on competition, year effects",frontier = best firm,200,0.338275,0.0625632,6.41147e-08,,,,,,,,,,,,,,,
+"Gap on competition, year and industry effects",frontier = best firm,200,0.0674419,0.063854,0.290882,,,,,,,,,,,,,,,
+"Interactions, year effects",frontier = best firm,200,-4.06124,8.5201,4.1408e-08,3.12253,3.44656,19.0125,3.82148,-11.9061,2.57294,33.9996,,,,,,,,
+"Interactions, year and industry effects",frontier = best firm,200,-17.4498,4.44417,0.000136695,9.35729,2.36049,12.3111,2.97739,-11.4317,2.71029,17.7955,,,,,,,,
+Implied squared-term coefficient at gap p25,frontier = best firm,200,,,,7.85786,,,,,,,0.131164,,,,,,,
+Implied squared-term coefficient at gap p75,frontier = best firm,200,,,,5.13443,,,,,,,0.369399,,,,,,,
+Neck and neck (gap below median),frontier = best firm,100,-40.9229,5.96604,,18.6081,2.37982,,,,,,0.19816,14,1.0996,0.0208407,-11.1832,1,4.99063,20.52
+Unleveled (gap above median),frontier = best firm,100,-0.948542,1.03572,,0.0862567,0.291775,,,,,,0.19816,17,5.49837,12.9343,-1.39514,0.918513,24.9024,115.31
+"Gap on competition, year effects",frontier = 90th percentile,200,0.288303,0.0320094,2.1211e-19,,,,,,,,,,,,,,,
+"Gap on competition, year and industry effects",frontier = 90th percentile,200,0.117082,0.0260465,6.95284e-06,,,,,,,,,,,,,,,
+"Interactions, year effects",frontier = 90th percentile,200,3.35489,8.14648,0.020005,-0.30041,3.07757,17.9704,6.44849,-11.746,4.2232,7.82355,,,,,,,,
+"Interactions, year and industry effects",frontier = 90th percentile,200,-20.8514,5.79113,0.000425411,11.0664,3.00823,20.4511,5.37824,-18.6075,4.7247,15.5249,,,,,,,,
+Implied squared-term coefficient at gap p25,frontier = 90th percentile,200,,,,9.53995,,,,,,,0.0820318,,,,,,,
+Implied squared-term coefficient at gap p75,frontier = 90th percentile,200,,,,8.20898,,,,,,,0.153561,,,,,,,
+Neck and neck (gap below median),frontier = 90th percentile,100,30.3871,63.6653,,-15.3221,31.1704,,,,,,0.112121,15,0.991611,0.0683171,0.3981,0.345278,7.02671,26.49
+Unleveled (gap above median),frontier = 90th percentile,100,-0.985585,1.19814,,0.0927533,0.32044,,,,,,0.112121,17,5.31293,12.3103,-1.15018,0.874965,22.8663,109.34
+Correlation of gap with firms per industry-year,frontier = best firm,200,0.77906,,,,,,,,,,,,,,,,,
+Correlation of gap with firms per industry-year,frontier = 90th percentile,200,0.68042,,,,,,,,,,,,,,,,,

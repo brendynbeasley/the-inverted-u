@@ -1,0 +1,7 @@
+column,b1,se1,b2,se2,n,implied_peak
+"(1) annual, year effects",152.8,55.74,-80.99,29.61,354,0.943326
+"(2) annual, year and industry effects",387.46,67.74,-204.55,36.17,354,0.947103
+(3) five-year averages,819.44,265.63,-434.43,141.43,67,0.943121
+(4) control function,385.13,67.56,-204.83,36.06,354,0.940121
+Table III (4) at gap = 0,424.46,,-222.9,,354,0.952131
+Table III (4) at mean gap 0.49,426.332,,-224.782,,354,0.948325

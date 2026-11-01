@@ -1,0 +1,18 @@
+# Raw downloads (SEC Financial Statement Data Sets, KPSS patent files, PatentsView assignees;
+# about 6 GB). src/build_panel.py fetches them; the compact files in data/processed/ are committed.
+data/raw/sec/
+data/raw/patents/
+*.part
+
+# Secrets
+*.key
+*_key*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
